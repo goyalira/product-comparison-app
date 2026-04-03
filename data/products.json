@@ -1,0 +1,30 @@
+[
+{
+"name": "iPhone 13",
+"price": 52000,
+"rating": 4.5,
+"platform": "Flipkart",
+"url": "https://www.flipkart.com/iphone-13"
+},
+{
+"name": "Samsung Galaxy S21",
+"price": 45000,
+"rating": 4.3,
+"platform": "Amazon",
+"url": "https://www.amazon.in/samsung-s21"
+},
+{
+"name": "Gaming Laptop ASUS",
+"price": 95000,
+"rating": 4.6,
+"platform": "Amazon",
+"url": "https://www.amazon.in/asus-gaming-laptop"
+},
+{
+"name": "Nike Air Shoes",
+"price": 7000,
+"rating": 4.2,
+"platform": "Flipkart",
+"url": "https://www.flipkart.com/nike-shoes"
+}
+]
